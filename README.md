@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu GitHub!
 ### Me chamo Pedro, sou estudante do quinto ano de Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG).
-### Irei compartilhar aqui meus projetos pessoais para estudo.
+### Aqui compartilharei meus projetos pessoais para estudo.
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=40 height=40 alt="React"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40 height=40 alt="JavaScript" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=40 height=40 alt="HTML5" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=40 height=40 alt="CSS3"/>
