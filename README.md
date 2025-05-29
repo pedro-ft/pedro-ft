@@ -1,5 +1,5 @@
 # Seja bem-vindo ao meu GitHub!👋
-### Me chamo Pedro, sou desenvolvedor full-stack e estudante do quinto ano de Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG).
+### Me chamo Pedro Taborda, sou desenvolvedor full-stack e estudante do quinto ano de Engenharia de Computação na Universidade Estadual de Ponta Grossa (UEPG).
 ### Aqui compartilharei meus projetos pessoais para estudo.
 
 ## Minhas Skills 💻
